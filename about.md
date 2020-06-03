@@ -56,6 +56,6 @@ I used GameMaker: Studio to create my games for nearly 5 years and now have been
 * The sprite i used in this page was made by my friend [Fchar](https://twitter.com/fcharotario)!
 
 ### Contact me
-My e-Mail: [casanovaproductions@gmail.com](mailto:casanovaproductions@gmail.com)
+**My e-Mail**: [casanovaproductions@gmail.com](mailto:casanovaproductions@gmail.com)
 
-Discord: Gabriel Casanova#3706
+**Discord**: Gabriel Casanova#3706
