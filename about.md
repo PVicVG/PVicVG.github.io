@@ -54,6 +54,7 @@ I used GameMaker: Studio to create my games for nearly 5 years and now have been
 
 ### Fun facts:
 * The sprite i used in this page was made by my friend [Fchar](https://twitter.com/fcharotario)!
+* I have a **Discord Server** full of cool people about the band [Oasis](https://discord.gg/GNvXRTX)!
 
 ### Contact me
 **My e-Mail**: [casanovaproductions@gmail.com](mailto:casanovaproductions@gmail.com)
