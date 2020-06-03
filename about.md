@@ -52,6 +52,9 @@ I used GameMaker: Studio to create my games for nearly 5 years and now have been
 
 **All** the software that i use to create my games are Free & Open Source (FOSS).
 
+### Fun facts:
+* The sprite i used in this page was made by my friend [Fchar](https://twitter.com/fcharotario)!
+
 ### Contact me
 My e-Mail: [casanovaproductions@gmail.com](mailto:casanovaproductions@gmail.com)
 
