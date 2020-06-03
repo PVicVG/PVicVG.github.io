@@ -24,6 +24,8 @@ I love retro games and i love pop culture, so expect lots of references about th
 
 Some communities that i am associated with: [Electro Block](https://twitter.com/electro_block), [Sonic Tribute Team](https://sites.google.com/view/sonic-frost-fangame) and [LifeSim Studios](https://github.com/LifeSimStudios).
 
+<br>
+
 ### Experience
 <div id = "center" >
     <img id="shadow" src="../images/about/logo_gms.png">
